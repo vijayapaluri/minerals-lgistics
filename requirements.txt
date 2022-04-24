@@ -7,4 +7,4 @@ tensorflow-cpu
 keras==2.8.0
 selenium
 statsmodels==0.13.2
-tabulate==0.8.9
+
